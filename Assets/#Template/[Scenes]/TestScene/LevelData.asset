@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: LevelData
   m_EditorClassIdentifier: 
   levelTitle: Test
-  soundTrack: {fileID: 8300000, guid: 33f66b899d38ce949a489aaee7d6b3fe, type: 3}
-  speed: 12
+  soundTrack: {fileID: 8300000, guid: ccb31347f09757344b5b31bc28a4bb55, type: 3}
+  speed: 10
   timeScale: 1
   MaxDiamondCount: 10
-  useMusicTime: 0
+  useMusicTime: 1
   levelTime: 7
   gravity: {x: 0, y: -9.3, z: 0}
   colors:

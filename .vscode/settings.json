@@ -55,7 +55,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MaxIFT-4-3-0.sln",
+    "dotnet.defaultSolution": "my_new_fanmade.sln",
     "hide-files.files": [],
     "dotnet.debug.suppressInvalidDebugTypeWarning": true
 }
